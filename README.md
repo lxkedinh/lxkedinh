@@ -1,4 +1,11 @@
-<h2 align="left">Hi 👋! My name is Luke Dinh and I'm a Full Stack Developer from Garden Grove, California.</h2>
+<h2 align="left">Hi 👋! My name is Luke Dinh</h2>
+
+###
+
+<h4 align="left">About Me</h4>
+
+- Recent CS graduate from Cal Poly Pomona! 🎓
+- Currently learning Svelte!
 
 ###
 
