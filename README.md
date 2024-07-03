@@ -5,7 +5,7 @@
 <h4 align="left">About Me</h4>
 
 - Recent CS graduate from Cal Poly Pomona! 🎓
-- Currently learning Svelte!
+- Currently learning Go!
 
 ###
 
