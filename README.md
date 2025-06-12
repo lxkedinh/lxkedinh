@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Luke Dinh from Garden Grove, California.<br><br>- 🔭 I’m working as a coding instructor at Coding Mind in Irvine, California.<br>- 📚 I'm currently learning OpenGL.<br>- ⚡ In my free time I play the Pokemon TCG (Eevee box main right now 🔥), rock climb, and go hiking!</p>
+<p align="left">I'm Luke Dinh from Garden Grove, California. I'm an incoming MSCSE student at UC San Diego in Fall 2025.<br><br>- 🔭 I’m working as a coding instructor at Coding Mind in Irvine, California.<br>- 📚 I'm currently learning OpenGL.<br>- ⚡ In my free time I play the Pokemon TCG (Eevee box main right now 🔥), rock climb, and go hiking!</p>
 
 ###
 
