@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Luke Dinh from Garden Grove, California. I'm an incoming MSCSE student at UC San Diego in Fall 2025.<br><br>- 🔭 I’m working as a coding instructor at Coding Mind.<br>- 📚 I'm currently learning DirectX12.<br>- ⚡ In my free time, I play video games, the Pokemon TCG, rock climb, and go hiking!</p>
+<p align="left">I'm Luke Dinh from Garden Grove, California. I'm an MSCSE student at UC San Diego!<br><br>- 🔭 I’m working as a coding instructor at Coding Mind.<br>- 📚 I'm currently learning physically-based rendering.<br>- ⚡ In my free time, I play video games, the Pokemon TCG, rock climb, and go hiking!</p>
 
 ###
 
